@@ -1,0 +1,5 @@
+# MidnightHubNav Configuration
+
+warmup-seconds: 3
+cancel-on-move: true
+cancel-on-damage: true
