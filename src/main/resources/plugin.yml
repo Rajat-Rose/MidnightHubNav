@@ -1,0 +1,16 @@
+name: MidnightHubNav
+version: 1.0
+main: com.midnightsmp.midnighthubnav.MidnightHubNav
+api-version: 1.20
+commands:
+  spawn:
+    description: Teleport to spawn location
+  hub:
+    description: Teleport to hub lobby
+    aliases: [lobby]
+  setspawn:
+    description: Set the spawn location
+    permission: midnighthubnav.admin
+  sethub:
+    description: Set the hub location
+    permission: midnighthubnav.admin
